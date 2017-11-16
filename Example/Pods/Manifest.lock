@@ -10,7 +10,7 @@ PODS:
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
   - Specta (1.0.7)
-  - YLBTest (0.1.0)
+  - YLBTest (1.0)
 
 DEPENDENCIES:
   - Expecta
@@ -28,7 +28,7 @@ SPEC CHECKSUMS:
   Expecta+Snapshots: dcff217eef506dabd6dfdc7864ea2da321fafbb8
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
-  YLBTest: 7d7f8f8c038728b40deb4a7a63246c52f0db769e
+  YLBTest: 129860118ddb680f6a6870bdf40bcb65231b9e7b
 
 PODFILE CHECKSUM: 9c40520eb5bd9da87b0058761d794de2a6667484
 
